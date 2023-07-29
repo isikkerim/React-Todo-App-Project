@@ -1,0 +1,42 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  .about-section h1 {
+    font-size: 36px;
+  }
+  .about-section p {
+    font-size: 18px;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+  h1, h2 {
+
+    margin: 20px;
+  }
+  button{
+
+
+    margin: 10px;
+  }

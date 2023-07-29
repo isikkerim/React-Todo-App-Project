@@ -1,0 +1,31 @@
+.contact-page {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  h1{
+    margin-top: 30px;
+  }
+  
+  .contact-page h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    padding: 0.5rem;
+  }
+  
+  button[type='submit'] {
+    padding: 0.5rem 1rem;
+  }
+  
