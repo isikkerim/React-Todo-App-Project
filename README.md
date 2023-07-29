@@ -14,5 +14,5 @@ Open a terminal or command prompt and navigate to the folder where the project i
 Run the npm install command to install the project's dependencies.
 Run the npm start command to start the project.
 After following these steps, your project will start running on your local server. You can view the project by going to http://localhost:3000 in your browser. You can find images related to the project below.
-NOTE:The project is only compatible with desktop web in terms of [appearance.[](url)](url)
+NOTE:The project is only compatible with desktop web in terms.
 
